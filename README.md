@@ -106,10 +106,10 @@
 </span>
 
 
-
-
 <p>Örnek çalışma videosuna <a href="https://www.instagram.com/p/BirVfcIHgj9/?taken-by=ieeektu" target="_blank">bağlantıdan 
 ulaşabilirsiniz.</a> </p>
+
+<img src="video/yazi.gif" alt="" height="300px" width="300px">
 
 <p>...</p>
 
