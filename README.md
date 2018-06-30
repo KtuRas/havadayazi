@@ -94,6 +94,7 @@
     hesaplanır.
 </p>
 <span>
+
         A: 0xE7
 
         B: 0x90
@@ -105,6 +106,19 @@
         E: 0xE7
 </span>
 
+<p>
+    Döner mekanizmanın altında belirlenen bir noktaya yerleştirilen mıknatıslar ve bu mıknatısları 
+    algılayacak bir reed röle ile yazının hep aynı noktadan başlamasını ve daha okunaklı görünmesini
+    sağladık. Ayrıca bu mıktanıs dönen mekanızmanın hızının değişmesi ile yazının genişliğini
+    değiştirme olanağı da sağlamaktadır.
+</p>
+
+<p>
+    Yazılım içerisindeki Seri haberleşme eklentisi ile yazının ve yazının renginin uzaktan 
+    değiştirilmesi sağlanmıştır.
+</p>
+
+<p>Devre çizimleri /design klasörünün altta mevcuttur.</p>
 
 <p>Örnek çalışma videosuna <a href="https://www.instagram.com/p/BirVfcIHgj9/?taken-by=ieeektu" target="_blank">bağlantıdan 
 ulaşabilirsiniz.</a> </p>
